@@ -1,0 +1,15 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Docker Website</title>
+</head>
+<body style="font-family: Arial; text-align: center; padding: 50px;">
+    <h1>Welcome to My Website!</h1>
+    <h2>Dockerized Website Deployment on Azure</h2>
+    <p>This website runs inside a Docker container.</p>
+    <p>Hosting: Microsoft Azure Ubuntu VM</p>
+</body>
+</html>
+
